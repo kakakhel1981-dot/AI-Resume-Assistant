@@ -22,7 +22,7 @@ st.set_page_config(
 
 # Gemini Flash model. You can change this in Streamlit Secrets
 # with GEMINI_MODEL if you want to use another supported model.
-DEFAULT_MODEL = "gemini-3.8-flash"
+DEFAULT_MODEL = "gemini-3.6-flash"
 
 MAX_RESUME_CHARS = 50000
 MAX_JOB_DESCRIPTION_CHARS = 30000
